@@ -1,4 +1,4 @@
-# factorial#include <iostream>
+#include <iostream>
 using namespace std;
 
 double calcFactorial(double fac){
